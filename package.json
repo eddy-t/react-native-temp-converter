@@ -1,0 +1,26 @@
+{
+  "name": "react-native-temp-converter",
+  "version": "1.0.0",
+  "author": "Eddy TAHIBI <dev@eddytahibi.fr> (https://www.eddytahibi.fr/)",
+  "description": "A Temperature converter build with React Native",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "expo": "~48.0.4",
+    "react": "18.2.0",
+    "react-native": "0.71.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true,
+  "keywords": [
+    "React-native",
+    "temp-converter"
+  ],
+  "license": "ISC"
+}
