@@ -17,8 +17,6 @@ A Temperature converter build with React Native
 ![](./screenshot.png)
 ![](./screenshot2.png)
 ![](./screenshot3.png)
-![](./screenshot4.png)
-
 
 ## My process
 
